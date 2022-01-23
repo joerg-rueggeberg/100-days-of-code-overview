@@ -1,7 +1,7 @@
 # 100-days-of-code-overview
 - Language: Python  
 - Started:  21.12.2021 
-- *Currently: Day 27 -  Tkinter*
+- *Currently: Day 28 -  Tkinter - Dynamic Typing and Pomodoro GUI*
 - Source:   100 Days of Code - The Complete Python Pro Bootcamp for 2021 (London App Brewery)  
 
 ## Day 001: [Bandname Generator](https://github.com/joerg-rueggeberg/001-band-name-generator)
@@ -144,11 +144,11 @@ Learned:
 - Dictionariy comprehension
 - Iterate over pandas dataframe
 
-## Day 027: Mile to km Converter
+## Day 027: [Mile to km Converter](https://github.com/joerg-rueggeberg/027-km-to-miles-converter)
 Learning:
 - Introduction Tkinter
 - Creating windows and labels
 - Default values for optional arguments
 - args/ kwargs
-- Radiobuttons, scales, checkbuttons ...
+- Radiobuttons, scales, checkbuttons and more
 - pack(), place(), grid()
