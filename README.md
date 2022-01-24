@@ -124,7 +124,7 @@ Learned:
 ...
 
 ## Day 023: [Frogger](https://github.com/joerg-rueggeberg/023-frogger)
-...
+Capstone Project
 
 ## Day 024: [Mail Merger](https://github.com/joerg-rueggeberg/024-mail-merger)
 Learned:
@@ -145,10 +145,16 @@ Learned:
 - Iterate over pandas dataframe
 
 ## Day 027: [Mile to km Converter](https://github.com/joerg-rueggeberg/027-km-to-miles-converter)
-Learning:
+Learned:
 - Introduction Tkinter
 - Creating windows and labels
 - Default values for optional arguments
 - args/ kwargs
 - Radiobuttons, scales, checkbuttons and more
 - pack(), place(), grid()
+
+## Day 028: [Pomodoro](https://github.com/joerg-rueggeberg/028-pomodoro)
+Learned:
+- Using canvas to add images and textlayer
+- .after Method / setting up and resetting 
+- Dynamic typing in python
