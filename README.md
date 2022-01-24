@@ -1,7 +1,7 @@
 # 100-days-of-code-overview
 - Language: Python  
 - Started:  21.12.2021 
-- *Currently: Day 28 -  Tkinter - Dynamic Typing and Pomodoro GUI*
+- *Currently: Day 29 -  Tkinter - Password manager*
 - Source:   100 Days of Code - The Complete Python Pro Bootcamp for 2021 (London App Brewery)  
 
 ## Day 001: [Bandname Generator](https://github.com/joerg-rueggeberg/001-band-name-generator)
