@@ -1,8 +1,15 @@
 # 100-days-of-code-overview
 - Language: Python  
 - Started:  21.12.2021 
-- *Currently: Day 29 -  Tkinter - Password manager*
+- *Currently: Day 30 -  Errors, Exceptions and JSON Data*
 - Source:   100 Days of Code - The Complete Python Pro Bootcamp for 2021 (London App Brewery)  
+
+## Day 029: [Password Manager (GUI)](https://github.com/joerg-rueggeberg/029-password-manager)
+Learned:
+- more about grid
+- column/ rowspan
+- Dialog Boxes and Pop-ups
+- Using the clipboard
 
 ## Day 028: [Pomodoro](https://github.com/joerg-rueggeberg/028-pomodoro)
 Learned:
