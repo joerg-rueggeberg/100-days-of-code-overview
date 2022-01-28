@@ -1,10 +1,16 @@
 # 100-days-of-code-overview
 - Language: Python  
 - Started:  21.12.2021 
-- *Currently: Day 30 -  Errors, Exceptions and JSON Data*
+- *Currently: Day 31 -  Flash Card App (Capstone Project)*
 - Source:   100 Days of Code - The Complete Python Pro Bootcamp for 2021 (London App Brewery)  
 
-## Day 029: [Password Manager (GUI)](https://github.com/joerg-rueggeberg/029-password-manager)
+## Day 030: [Password Manager (GUI)](https://github.com/joerg-rueggeberg/029-password-manager) (2/2)
+Learned:
+- Try, except, else, finally
+- raise
+- JSON (load, update, dump)
+
+## Day 029: [Password Manager (GUI)](https://github.com/joerg-rueggeberg/029-password-manager) (1/2)
 Learned:
 - more about grid
 - column/ rowspan
