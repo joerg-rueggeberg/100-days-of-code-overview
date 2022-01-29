@@ -1,8 +1,11 @@
 # 100-days-of-code-overview
 - Language: Python  
 - Started:  21.12.2021 
-- *Currently: Day 31 -  Flash Card App (Capstone Project)*
+- *Currently: Day 32 -  Send E-Mail (smtpblib) & manage Dates (datetime)*
 - Source:   100 Days of Code - The Complete Python Pro Bootcamp for 2021 (London App Brewery)  
+
+## Day 031: [Flash Cards](https://github.com/joerg-rueggeberg/031-flash-cards)
+Capstone  Project.
 
 ## Day 030: [Password Manager (GUI)](https://github.com/joerg-rueggeberg/029-password-manager) (2/2)
 Learned:
