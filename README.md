@@ -12,7 +12,7 @@ Learned:
 - more about datetime
 - more about time
 
-## Day 032: Motivational Quote Mailer and automated Birthday Wisher
+## Day 032: [Automated Birthday Wisher](https://github.com/joerg-rueggeberg/032-automated-birthday-wisher) and Motivational Quote Mailer
 Learned:
 - using smtplib
 - using datetime
