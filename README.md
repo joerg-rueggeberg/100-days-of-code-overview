@@ -9,6 +9,7 @@ Learned:
 - API Endpoints and Parameters
 - using requests
 - identify HTTP Codes and Exceptions 
+- more about smtlib
 - more about datetime
 - more about time
 
