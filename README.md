@@ -6,7 +6,7 @@
 
 ## Day 032: Motivational Quote Mailer and automated Birthday Wisher
 Learned:
-- Using smtplib
+- using smtplib
 - using datetime
 - more about Pandas
 - more about reading/ writing files
