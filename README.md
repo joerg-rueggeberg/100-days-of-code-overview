@@ -1,8 +1,16 @@
 # 100-days-of-code-overview
 - Language: Python  
 - Started:  21.12.2021 
-- *Currently: Day 33 -  API-Endpoints & API Parameters - ISS Overhead Notifier*
+- *Currently: Day 34 -  API Practice - Creating a GUI Quiz App*
 - Source:   100 Days of Code - The Complete Python Pro Bootcamp for 2021 (London App Brewery)  
+
+## Day 033: ISS Overhead Notifier
+Learned:
+- API Endpoints and Parameters
+- using requests
+- identify HTTP Codes and Exceptions 
+- more about datetime
+- more about time
 
 ## Day 032: Motivational Quote Mailer and automated Birthday Wisher
 Learned:
