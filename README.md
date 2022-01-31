@@ -1,8 +1,15 @@
 # 100-days-of-code-overview
 - Language: Python  
 - Started:  21.12.2021 
-- *Currently: Day 32 -  Send E-Mail (smtpblib) & manage Dates (datetime)*
+- *Currently: Day 33 -  API-Endpoints & API Parameters - ISS Overhead Notifier*
 - Source:   100 Days of Code - The Complete Python Pro Bootcamp for 2021 (London App Brewery)  
+
+## Day 032: Motivational Quote Mailer and automated Birthday Wisher
+Learned:
+- Using smtplib
+- using datetime
+- more about Pandas
+- more about reading/ writing files
 
 ## Day 031: [Flash Cards](https://github.com/joerg-rueggeberg/031-flash-cards)
 Capstone  Project.
