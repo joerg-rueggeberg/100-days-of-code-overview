@@ -1,8 +1,15 @@
 # 100-days-of-code-overview
 - Language: Python  
 - Started:  21.12.2021 
-- *Currently: Day 34 -  API Practice - Creating a GUI Quiz App*
+- *Currently: Day 35 -  Keys, Authentication & Environment Variables: Send SMS*
 - Source:   100 Days of Code - The Complete Python Pro Bootcamp for 2021 (London App Brewery)  
+
+## Day 034: [True/ False Quiz App](https://github.com/joerg-rueggeberg/034-QuizApp)
+Learned:
+- HTML unescape
+- Type Hints and Arrows 
+- more about API Parameters
+- more about classes and functions
 
 ## Day 033: [ISS Overhead Notifier](https://github.com/joerg-rueggeberg/033-iss-overhead-notifier)
 Learned:
