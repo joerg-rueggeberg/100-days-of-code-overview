@@ -1,8 +1,15 @@
 # 100-days-of-code-overview
 - Language: Python  
 - Started:  21.12.2021 
-- *Currently: Day 35 -  Keys, Authentication & Environment Variables: Send SMS*
+- *Currently: Day 36 -  Stock Trading News Alert Project*
 - Source:   100 Days of Code - The Complete Python Pro Bootcamp for 2021 (London App Brewery)  
+
+## Day 035: [Rain Alert](https://github.com/joerg-rueggeberg/035-rain-alert)
+Learned:
+- API Authentication
+- Sending SMS with 3rd party support 
+- Automating the script with 3rd party support
+- Environment Variables for Hiding Keys etc.
 
 ## Day 034: [True/ False Quiz App](https://github.com/joerg-rueggeberg/034-QuizApp)
 Learned:
