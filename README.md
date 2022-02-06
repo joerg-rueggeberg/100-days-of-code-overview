@@ -1,15 +1,23 @@
 # 100-days-of-code-overview
 - Language: Python  
 - Started:  21.12.2021 
-- *Currently: Day 36 -  Stock Trading News Alert Project*
+- *Currently: Day 37 -  Habit Tracking Projekt: API Post Requests & Headers*
 - Source:   100 Days of Code - The Complete Python Pro Bootcamp for 2021 (London App Brewery)  
+
+## Day 036: [Stock Trading News Alert](https://github.com/joerg-rueggeberg/036-stock-trading-news-alert)
+Capstone Projekt
+
+Learned more about:
+- API usage
+- Environment Variables for hiding Keys etc.
+- Encoding messages for smtplib
 
 ## Day 035: [Rain Alert](https://github.com/joerg-rueggeberg/035-rain-alert)
 Learned:
 - API Authentication
 - Sending SMS with 3rd party support 
 - Automating the script with 3rd party support
-- Environment Variables for Hiding Keys etc.
+- Environment Variables for hiding Keys etc.
 
 ## Day 034: [True/ False Quiz App](https://github.com/joerg-rueggeberg/034-QuizApp)
 Learned:
