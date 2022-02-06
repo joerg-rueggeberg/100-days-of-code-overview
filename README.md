@@ -1,8 +1,14 @@
 # 100-days-of-code-overview
 - Language: Python  
 - Started:  21.12.2021 
-- *Currently: Day 37 -  Habit Tracking Projekt: API Post Requests & Headers*
+- *Currently: Day 38 -  Workout Tracking Using Google Sheets*
 - Source:   100 Days of Code - The Complete Python Pro Bootcamp for 2021 (London App Brewery)  
+
+## Day 037: [Habit Tracker](https://pixe.la/v1/users/sinclair/graphs/graph01.html) with Pixela
+Learned about:
+- HTTP Header
+- HTTP Post, Put, Delete Requests
+- using strftime in datetime
 
 ## Day 036: [Stock Trading News Alert](https://github.com/joerg-rueggeberg/036-stock-trading-news-alert)
 Capstone Projekt
