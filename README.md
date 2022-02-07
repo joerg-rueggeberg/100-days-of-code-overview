@@ -1,8 +1,14 @@
 # 100-days-of-code-overview
 - Language: Python  
 - Started:  21.12.2021 
-- *Currently: Day 38 -  Workout Tracking Using Google Sheets*
+- *Currently: Day 39 -  Flight Deal Finder - Capstone Project*
 - Source:   100 Days of Code - The Complete Python Pro Bootcamp for 2021 (London App Brewery)  
+
+## Day 038: [Workout Tracking](https://github.com/joerg-rueggeberg/38-workout-tracking-w-google-sheets) using Google Sheets
+Learned about:
+- saving Data to Google Sheets
+- Natural Language Queries
+- more about API Authentication
 
 ## Day 037: [Habit Tracker](https://pixe.la/v1/users/sinclair/graphs/graph01.html) with Pixela
 Learned about:
@@ -11,8 +17,6 @@ Learned about:
 - using strftime in datetime
 
 ## Day 036: [Stock Trading News Alert](https://github.com/joerg-rueggeberg/036-stock-trading-news-alert)
-Capstone Projekt
-
 Learned more about:
 - API usage
 - Environment Variables for hiding Keys etc.
