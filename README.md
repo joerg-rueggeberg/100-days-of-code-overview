@@ -8,7 +8,9 @@
 Learned about:
 - saving Data to Google Sheets
 - Natural Language Queries
-- more about API Authentication
+- more about HTTP Header Authentication
+- more about HTTP Post
+- more about Environment Variables
 
 ## Day 037: [Habit Tracker](https://pixe.la/v1/users/sinclair/graphs/graph01.html) with Pixela
 Learned about:
