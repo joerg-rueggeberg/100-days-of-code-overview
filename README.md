@@ -1,8 +1,15 @@
 # 100-days-of-code-overview
 - Language: Python  
 - Started:  21.12.2021 
-- *Currently: Day 39 -  Flight Deal Finder - Capstone Project*
+- *Currently: Day 41 -  Web Foundation - Introduction to HTML*
 - Source:   100 Days of Code - The Complete Python Pro Bootcamp for 2021 (London App Brewery)  
+
+## Day 039/040: Flight Deal finder/ Flight Club
+Capstone Project
+
+Learned:
+- more about using more complex API
+- more about using Google Sheets
 
 ## Day 038: [Workout Tracking](https://github.com/joerg-rueggeberg/38-workout-tracking-w-google-sheets) using Google Sheets
 Learned about:
