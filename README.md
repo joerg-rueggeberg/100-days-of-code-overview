@@ -1,8 +1,14 @@
 # 100-days-of-code-overview
 - Language: Python  
 - Started:  21.12.2021 
-- *Currently: Day 42 -  Web Foundation - Intermediate HTML*
+- *Currently: Day 43 -  Web Foundation - Intermediate to CSS*
 - Source:   100 Days of Code - The Complete Python Pro Bootcamp for 2021 (London App Brewery)  
+
+## Day 042: Intermediate HTML
+Content:
+- HTML Tables
+- ... for layout
+- HTML Forms
 
 ## Day 041: Introduction to HTML
 Content:
