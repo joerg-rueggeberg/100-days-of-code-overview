@@ -1,8 +1,17 @@
 # 100-days-of-code-overview
 - Language: Python  
 - Started:  21.12.2021 
-- *Currently: Day 41 -  Web Foundation - Introduction to HTML*
+- *Currently: Day 42 -  Web Foundation - Intermediate HTML*
 - Source:   100 Days of Code - The Complete Python Pro Bootcamp for 2021 (London App Brewery)  
+
+## Day 041: Introduction to HTML
+Content:
+- Introduction to HTML
+- Anatomy of a HTML tag
+- HTML Boilerplate
+- Lists
+- Images
+- Links
 
 ## Day 039/040: Flight Deal finder/ Flight Club
 Capstone Project
