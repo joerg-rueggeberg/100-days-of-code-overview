@@ -1,8 +1,17 @@
 # 100-days-of-code-overview
 - Language: Python  
 - Started:  21.12.2021 
-- *Currently: Day 43 -  Web Foundation - Intermediate to CSS*
+- *Currently: Day 44 -  Web Foundation - Intermediate CSS*
 - Source:   100 Days of Code - The Complete Python Pro Bootcamp for 2021 (London App Brewery)  
+
+## Day 043: Introduction to CSS
+Learned:
+- inline CSS
+- internal CSS
+- external CSS
+- CSS Syntax
+- CSS Selectors
+- Classes and IDs
 
 ## Day 042: Intermediate HTML
 Content:
