@@ -1,8 +1,18 @@
 # 100-days-of-code-overview
 - Language: Python  
 - Started:  21.12.2021 
-- *Currently: Day 44 -  Web Foundation - Intermediate CSS*
+- *Currently: Day 45 -  Web Scraping with Beautiful Soup*
 - Source:   100 Days of Code - The Complete Python Pro Bootcamp for 2021 (London App Brewery)  
+
+## Day 044: Intermediate CSS
+Learned:
+- Divs
+- Box Model
+- Display properties
+- Positioning
+- Sizing
+- Float and Clear
+- Font properties
 
 ## Day 043: Introduction to CSS
 Learned:
