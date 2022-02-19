@@ -1,8 +1,14 @@
 # 100-days-of-code-overview
 - Language: Python  
 - Started:  21.12.2021 
-- *Currently: Day 45 -  Web Scraping with Beautiful Soup*
+- *Currently: Day 46 -  Create a Spotify Playlist using the Musical Time Machine*
 - Source:   100 Days of Code - The Complete Python Pro Bootcamp for 2021 (London App Brewery)  
+
+## Day 045: Web Scraping with Beautiful Soup: [100 Movies that you must watch)](https://github.com/joerg-rueggeberg/045-100-movies-that-you-must-watch)
+Learned:
+- Web Scraping with Beautiful Soup
+- Parsing HTML and using BeautifulSoup
+- Finding and selecting particular elements
 
 ## Day 044: Intermediate CSS
 Learned:
